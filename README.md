@@ -1,5 +1,7 @@
 # Token-Level Model Selection
 
+![Token Level Model Selection](banner.png)
+
 Generate text by switching between large and small language models at the token level.
 
 ## The Idea
